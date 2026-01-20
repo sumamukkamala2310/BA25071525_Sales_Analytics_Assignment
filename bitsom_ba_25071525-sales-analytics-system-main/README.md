@@ -1,4 +1,4 @@
-# Sales Analytics System – Business Analytics Assignment
+# Sales Analytics System â€“ Business Analytics Assignment
 
 ## Objective
 This assignment focuses on building a sales analytics system that processes raw sales data,
