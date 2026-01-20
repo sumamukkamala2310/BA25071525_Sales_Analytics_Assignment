@@ -1,0 +1,88 @@
+SALES ANALYTICS REPORT
+============================================================
+Generated: 2026-01-13 00:35:08.818451
+Records Processed: 71
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue: ₹3,540,205.00
+Total Transactions: 71
+Average Order Value: ₹49,862.04
+Date Range: 2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+North: ₹1,321,605.00 | 37.33% | 21 transactions
+South: ₹889,332.00 | 25.12% | 13 transactions
+West: ₹848,902.00 | 23.98% | 19 transactions
+East: ₹467,969.00 | 13.22% | 17 transactions
+: ₹12,397.00 | 0.35% | 1 transactions
+
+TOP 5 PRODUCTS
+------------------------------------------------------------
+1. LaptopPremium | Qty: 27 | Revenue: ₹2,069,871.00
+2. Monitor | Qty: 30 | Revenue: ₹493,759.00
+3. Laptop | Qty: 3 | Revenue: ₹184,329.00
+4. MonitorLED | Qty: 12 | Revenue: ₹132,104.00
+5. Webcam | Qty: 35 | Revenue: ₹128,187.00
+
+TOP 5 CUSTOMERS
+------------------------------------------------------------
+1. C004 | Total Spent: ₹857,124.00
+2. C017 | Total Spent: ₹762,460.00
+3. C010 | Total Spent: ₹457,186.00
+4. C024 | Total Spent: ₹261,848.00
+5. C008 | Total Spent: ₹216,176.00
+
+DAILY SALES TREND
+------------------------------------------------------------
+2024-12-01: ₹123,969.00 | 3 txns | 2 customers
+2024-12-02: ₹882,906.00 | 5 txns | 5 customers
+2024-12-03: ₹61,851.00 | 5 txns | 5 customers
+2024-12-05: ₹257.00 | 1 txns | 1 customers
+2024-12-06: ₹34,072.00 | 1 txns | 1 customers
+2024-12-07: ₹204,912.00 | 10 txns | 7 customers
+2024-12-08: ₹70,383.00 | 3 txns | 3 customers
+2024-12-09: ₹25,339.00 | 4 txns | 4 customers
+2024-12-10: ₹1,550.00 | 1 txns | 1 customers
+2024-12-11: ₹13,207.00 | 2 txns | 2 customers
+2024-12-13: ₹417,923.00 | 3 txns | 3 customers
+2024-12-14: ₹45,349.00 | 2 txns | 2 customers
+2024-12-15: ₹818,960.00 | 1 txns | 1 customers
+2024-12-16: ₹3,020.00 | 1 txns | 1 customers
+2024-12-17: ₹114,356.00 | 1 txns | 1 customers
+2024-12-18: ₹81,284.00 | 2 txns | 1 customers
+2024-12-20: ₹594.00 | 1 txns | 1 customers
+2024-12-21: ₹25,992.00 | 1 txns | 1 customers
+2024-12-22: ₹89,645.00 | 6 txns | 6 customers
+2024-12-23: ₹768.00 | 1 txns | 1 customers
+2024-12-24: ₹161,907.00 | 4 txns | 4 customers
+2024-12-25: ₹30,455.00 | 4 txns | 4 customers
+2024-12-26: ₹34,218.00 | 1 txns | 1 customers
+2024-12-27: ₹119,313.00 | 2 txns | 2 customers
+2024-12-29: ₹18,005.00 | 3 txns | 3 customers
+2024-12-30: ₹159,970.00 | 3 txns | 3 customers
+
+API ENRICHMENT SUMMARY
+------------------------------------------------------------
+Total Products Enriched: 0
+Success Rate: 0.00%
+Products not enriched:
+- USB Cable
+- Mouse
+- MouseWireless
+- External Hard Drive
+- Monitor
+- KeyboardMechanical
+- Wireless Mouse
+- WebcamHD
+- LaptopPremium
+- Laptop
+- Webcam
+- External Hard Drive1TB
+- Headphones
+- Laptop Charger65W
+- Laptop Charger
+- MonitorLED
+- Wireless MouseGaming
+- Keyboard
